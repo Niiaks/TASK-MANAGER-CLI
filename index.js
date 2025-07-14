@@ -14,7 +14,7 @@ const questions = [
   {
     type: "input",
     name: "title",
-    message: "to do title",
+    message: "todo title",
   },
   {
     type: "input",
